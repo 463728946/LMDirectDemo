@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LM Direct Host", "LM Direct Host\LM Direct Host.csproj", "{0D9EBDCF-2560-4104-B1E5-B8B9EEA77C17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D9EBDCF-2560-4104-B1E5-B8B9EEA77C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D9EBDCF-2560-4104-B1E5-B8B9EEA77C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D9EBDCF-2560-4104-B1E5-B8B9EEA77C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D9EBDCF-2560-4104-B1E5-B8B9EEA77C17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3998EA88-70CC-4C69-A4E8-8857EA76B9AC}
+	EndGlobalSection
+EndGlobal
